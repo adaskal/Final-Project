@@ -1,7 +1,5 @@
 # Final-Project
 
-Toolboxes/add ons that need to be downloaded: IPython, tabulate
-
 Our project includes 4 tests: number memory test, verbal memory test, reaction time test, and typing test. 
 
 Number memory test: 
