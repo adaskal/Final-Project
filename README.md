@@ -16,5 +16,4 @@ Reaction time test:
 This is a simple reaction time test. The test is meant to test the reaction time to a box pop up as well as a sound. For the first test the player must click the box and hit enter as soon as he/she sees it pop up. For the second test he/she must wait until the sound finishes playing to click and hit enter on the box. The final code is just a quick way to compare your results.  
 
 Typing test: 
-The player is given a passage to type. When the player finishes typing the passage, their results (WPM, accuracy, time) are printed.
-If their WPM is in the top 3 entries, their name is added to the leaderboard.
+The player is given a passage to type. When the player finishes typing the passage, their results (WPM, accuracy, time) are printed. If their WPM is in the top 3 entries and their accuracy is >= 75%, their name is added to the leaderboard.
