@@ -7,7 +7,7 @@ Our project includes 4 tests: number memory test, verbal memory test, reaction t
 Number memory test:
 
 
-Verbal memory test:
+Verbal memory test:  Player is given list of 10 random words at beginning of test.  At end of test, they are presented with a different list of 10 words and asked to recall if any of the new words are in the old word list.
 
 
 Reaction time test:
