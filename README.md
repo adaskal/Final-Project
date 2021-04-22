@@ -3,7 +3,7 @@
 Our project includes 4 tests: number memory test, verbal memory test, reaction time test, and typing test. 
 
 Number memory test: 
-Player is given a number and has to input that number back. If the player inputs the correct number they can continue and the next number that is one digit longer pops up. If they are able to do this for an eleven digit number the game stops and the player wins. Open up with number_memory.works.ipynb.
+Player is given a number and has to input that number back. If the player inputs the correct number they can continue and the next number that is one digit longer pops up. If they are able to do this for an eleven digit number the game stops and the player wins. Do not input a letter this will break the code only input numbers. Open up with number_memory.works.ipynb.
 
 
 Verbal memory test:
